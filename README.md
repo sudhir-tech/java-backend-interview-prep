@@ -8,5 +8,11 @@
 
 <img src="./assets/java-backend-roadmap.png" alt="Java Backend Interview Prep Roadmap">
 
+    Recommended Learning Order
+    * Core Java and OOP
+    * Collections and Exception Handling
+    * SQL and Database Concepts
+    * Spring Boot and REST APIs
+    * DSA and System Design
 </div>
 
